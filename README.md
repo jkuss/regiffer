@@ -1,7 +1,7 @@
 regiffer
 ========
 
-The Regiffer - Random Fullscreen Animated Gifs
+The Regiffer - Fullscreen Random Animated Gifs
 
 Place your images in the array in general.js
 
